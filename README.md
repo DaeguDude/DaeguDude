@@ -2,15 +2,14 @@
 
 Here are some ideas to get you started:
 
-- [![javascript](./src/javascript.svg)](https://aleen42.github.io/badges/src/javascript.svg) A badge used for projects that coded with JavaScript
-- 🔭 I’m currently working on **Weather App**
+
+- 🔭 I’m currently working on **🌂 Weather App**
 - 🌱 I’m currently learning ![React](https://github.com/DaeguDude/badges/blob/master/src/react.svg)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am Korean
+- 👯 I’m looking to collaborate on Project that helps people
+- 🤔 I’m looking for help with Node
+- 💬 Ask me about Daegu, it is a great city!
+- 📫 Reach me <k3hppk@gmail.com>
+- ⚡ Fun fact: I 🚴‍ across 2 countries🇺🇸🇰🇷
 
 ### Skill Set
 
