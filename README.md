@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I am Korean
 
 Skill Set
-- [![javascript](https://github.com/DaeguDude/badges/blob/master/src/javascript.svg)
+- [javascript](https://github.com/DaeguDude/badges/blob/master/src/javascript.svg)
 
