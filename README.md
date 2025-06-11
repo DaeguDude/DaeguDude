@@ -1,10 +1,9 @@
 ### Hey 👋
 
-- 🔭 I’m currently working on **🌂 Weather App**
-- 🌱 I’m currently learning ![React](https://github.com/DaeguDude/badges/blob/master/src/react.svg)
+- 🪵 I’m currently learning woodworking
 - 👯 I’m looking to collaborate on Project that helps people
-- 🤔 I’m looking for help with Node
-- 💬 Ask me about Daegu, it is a great city!
+- 🤔 I'm full of curiosity
+- 💬 Ask me about Seoul and Daegu
 - 📫 Reach me <k3hppk@gmail.com>
 - ⚡ Fun fact: I 🚴‍ across 2 countries🇺🇸🇰🇷
 
